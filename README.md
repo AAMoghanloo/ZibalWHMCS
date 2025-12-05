@@ -1,5 +1,5 @@
 # ZibalWHMCS
-Zibal WHMCS Payment Gateway
+Zibal Payment Gateway for WHMCS
 
 
 This module is compatible with the latest WHMCS, 8.13.1.
